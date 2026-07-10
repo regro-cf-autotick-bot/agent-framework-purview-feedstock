@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.0.0b260521"
+  version: "1.0.0b260709"
   python_min: "3.10"
 
 package:
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/a/agent-framework-purview/agent_framework_purview-${{ version }}.tar.gz
-  sha256: d7aa309c1a22e15e71a6317b2ae261257fe7df01741ee0b9e6d363390bfea66d
+  sha256: 5f2717c0cf14e94802f22a0494d69ee85cbc3f45f8872ddcef1bee66438d912d
 
 build:
   noarch: python
